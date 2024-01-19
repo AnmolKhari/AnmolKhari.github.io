@@ -42,10 +42,10 @@ This web application allows users to subscribe to The Company's newsletter and r
 
 This project was made possible by the following contributors:
 
-- [Aqdas Zishan](#)
+- [Aqdas Zishan](https://github.com/AqdasZishan)
 - [Ashish Kumar Pandey](#)
 - [Anmol Khari](#)
-- [Ayush Jindal](#)
+- [Ayush Jindal](https://github.com/ayushjindal026)
 - [Sparsh Verma](#)
 
 Feel free to reach out to any of the contributors if you have questions or feedback!
