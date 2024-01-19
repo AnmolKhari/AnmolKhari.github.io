@@ -53,7 +53,3 @@ Feel free to reach out to any of the contributors if you have questions or feedb
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Replace the placeholder `#` with the actual GitHub profiles or other relevant links for contributors. Also, make sure to include a `LICENSE` file in your repository if you choose a different license. Adjust the instructions and details based on the specifics of your project.
